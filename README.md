@@ -29,7 +29,7 @@ Diseñar e implementar una propuesta propia de navegación para una aplicación 
 La aplicación representa una cafetería de especialidad y cuenta con tres categorías principales:
 
 ```text
-                         ☕ Specialty Coffee
+                          Specialty Coffee
                                 │
              ┌──────────────────┼──────────────────┐
              ▼                  ▼                  ▼
