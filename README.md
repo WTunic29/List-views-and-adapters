@@ -249,43 +249,43 @@ Las evidencias del laboratorio corresponden a las diferentes pantallas y rutas d
 
 La pantalla principal permite acceder a las categorías de la aplicación.
 
-![Pantalla principal](./evidencias/Main.png)
+![Pantalla principal](./Evidencias/Main.png)
 
 ### Lista de bebidas
 
 Lista de bebidas implementada mediante `ListView` y `ArrayAdapter`.
 
-![Lista de bebidas](./evidencias/Bebidas.png)
+![Lista de bebidas](./Evidencias/Bebidas.png)
 
 ### Detalle de bebida
 
 Pantalla mostrada después de seleccionar una bebida.
 
-![Detalle de bebida](./evidencias/DescripcionBebidas.png)
+![Detalle de bebida](./Evidencias/DescripcionBebidas.png)
 
 ### Lista de métodos
 
 Lista de métodos de preparación.
 
-![Lista de métodos](./evidencias/Metodos.png)
+![Lista de métodos](./Evidencias/Metodos.png)
 
 ### Detalle de método
 
 Pantalla de detalle correspondiente al método seleccionado.
 
-![Detalle de método](./evidencias/DescripcionMetodo.png)
+![Detalle de método](./Evidencias/DescripcionMetodo.png)
 
 ### Lista de sucursales
 
 Lista de sucursales disponibles.
 
-![Lista de sucursales](./evidencias/Sucursales.png)
+![Lista de sucursales](./Evidencias/Sucursales.png)
 
 ### Detalle de sucursal
 
 Pantalla de detalle correspondiente a la sucursal seleccionada.
 
-![Detalle de sucursal](./evidencias/DescripcionSucursal.png)
+![Detalle de sucursal](./Evidencias/DescripcionSucursal.png)
 
 ## Estructura principal del proyecto
 
