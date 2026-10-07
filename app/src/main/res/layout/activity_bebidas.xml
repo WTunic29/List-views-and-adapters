@@ -3,6 +3,7 @@
 <LinearLayout
 
     xmlns:android="http://schemas.android.com/apk/res/android"
+
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
@@ -16,6 +17,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Bebidas"
+
         android:textAlignment="center"
         android:textSize="26sp"
         android:textStyle="bold"
@@ -27,8 +29,31 @@
 
         android:id="@+id/drinksListView"
         android:layout_width="match_parent"
+
         android:layout_height="0dp"
         android:layout_weight="1"
+
+        />
+
+    <Button
+
+        android:id="@+id/addDrinkButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="AGREGAR BEBIDA"
+        android:layout_marginTop="12dp"
+
+        />
+
+    <Button
+
+        android:id="@+id/queryDrinkButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="CONSULTAR BEBIDAS"
+        android:layout_marginTop="8dp"
 
         />
 
